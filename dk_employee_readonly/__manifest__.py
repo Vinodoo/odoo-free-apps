@@ -6,10 +6,10 @@
     'summary': """
         Make Employee Read Only
     """,
-    'author': 'Do Kovai',
-    'company': 'Do Kovai',
-    'maintainer': 'Do Kovai',
-    'website': 'https://www.dokovai.com',
+    'author': 'doogood',
+    'company': 'doogood',
+    'maintainer': 'doogood',
+    'website': 'https://www.doogood.com',
     'depends': ['hr'],
     'data': [
         'views/hr_views.xml',
