@@ -1,2 +1,1 @@
-# odoo-free-apps
-odoo-free-apps
+#16.0 odoo-free-apps
