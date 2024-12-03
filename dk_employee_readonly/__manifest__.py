@@ -4,7 +4,7 @@
     'version': '0.1',
     'category': 'Generic Modules/Human Resources',
     'summary': """
-        Make Employee Read Only
+        Make Employee Read Only for Manager Role
     """,
     'author': 'doogood',
     'company': 'doogood',
